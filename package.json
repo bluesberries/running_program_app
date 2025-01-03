@@ -1,0 +1,23 @@
+{
+  "name": "running_program_app",
+  "version": "1.0.0",
+  "description": "Build a simple web app to view the [running program](https://www.halhigdon.com/training-programs/marathon-training/novice-1-marathon/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluesberries/running_program_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluesberries/running_program_app/issues"
+  },
+  "homepage": "https://github.com/bluesberries/running_program_app#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
